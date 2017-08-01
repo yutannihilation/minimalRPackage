@@ -1,7 +1,13 @@
 minimalRPackage
 ===============
 
-This is the most minimal R package, which is useless at all
+(:warning: Never submit this to CRAN! You've been warned... :warning:)
+
+This is the most minimal R package, which is useless at all. You can install this package by:
+
+```r
+devtools::install_github("yutannihilation/minimalRPackage")
+```
 
 `R/`
 ----
